@@ -31,8 +31,8 @@ Real-time object detection and tracking using **YOLOv8** and **Deep SORT**. The 
 1. Clone this repository:
 
 ```
-git clone https://github.com/zainabbatool-bit/object-detection-tracking.git
-cd object-detection-tracking
+git clone https://github.com/zainabbatool-bit/CodeAlpha-object-detection-tracking.git
+cd CodeAlpha-object-detection-tracking
 ```
 
 2. Create and activate a virtual environment (Windows):
@@ -74,7 +74,7 @@ Other settings at the top of `main.py`:
 ## Project Structure
 
 ```
-object-detection-tracking/
+CodeAlpha-object-detection-tracking/
 ├── main.py             # Final version: detection + tracking + FPS + saving
 ├── track.py            # Detection + tracking
 ├── detect.py           # Detection only
